@@ -1,5 +1,3 @@
-# Amazon_sql_project
-
 ---
 
 # **Amazon USA Sales Analysis Project**
